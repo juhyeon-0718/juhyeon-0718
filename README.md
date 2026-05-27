@@ -11,12 +11,9 @@
 ```
 🎯 백엔드 개발자 취업 준비 중
 ☕ Java / Spring Boot 기반 서버 개발에 집중하고 있습니다
-🤖 AI 연동 서비스 개발 경험 보유 (HAKIO 프로젝트)
 📍 부산광역시
 ```
 
-안정적이고 확장 가능한 백엔드 아키텍처를 설계하는 것에 관심이 많습니다.  
-RESTful API 설계, JPA를 활용한 데이터 모델링, Spring Security 기반 인증/인가 구현 경험이 있습니다.
 
 ---
 
@@ -58,6 +55,7 @@ Spring Boot + React 풀스택 개인 프로젝트 (진행중)
   - Claude AI 연동 — 상담일지 초안 자동 생성 · 성적 분석 리포트
   - 출결 세션 관리 · 카카오페이 수납 연동 · 단어장 퀴즈
   - Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신
+  - kakao pay 단일 결제 기능 구현 
 
 ### 🏆 **HIGHPASS — 취업준비생 커뮤니티 플랫폼**
 Spring Boot + Next.js 풀스택 팀 프로젝트 (4인) | [바로가기](https://highpassfrontend.vercel.app/login/)
