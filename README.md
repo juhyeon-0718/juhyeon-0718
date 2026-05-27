@@ -33,90 +33,147 @@
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+![React](https://img<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD6E7,50:D6EAFF,100:D6F5EC&height=200&section=header&text=Juhyeon&fontSize=60&fontColor=7B7B9A&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=20&descFontColor=9B9BBF&animation=fadeIn" width="100%"/>
+</div>
 
-**Database**
+<br>
 
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Cloud & Infra**
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhyeon-0718&count_bg=%23C9B8E8&title_bg=%23E8D4F0&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-juhyeon--0718-C9B8E8?style=flat-square&logo=github&logoColor=white)](https://github.com/juhyeon-0718)
+  ![Location](https://img.shields.io/badge/📍_부산광역시-B8D4F5?style=flat-square&logoColor=white)
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-
-**AI & Tools**
-
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+</div>
 
 ---
 
-## 🚀 주요 프로젝트
+## 🙋‍♂️ About Me
+
+```
+🎯 백엔드 개발자 취업 준비 중
+☕ Java / Spring Boot 기반 서버 개발에 집중하고 있습니다
+💡 동작하는 코드보다, 이해할 수 있는 코드를 지향합니다
+📍 부산광역시
+```
+
+---
+
+## 🛠 Tech Stack
+
+<br>
+
+### 🌸 Backend
+<p>
+  <img src="https://img.shields.io/badge/Java-F4B8C1?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-B8E0C8?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA/Hibernate-C8C8E0?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-D4C8E8?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth2-F4C8B8?style=for-the-badge&logo=auth0&logoColor=white"/>
+</p>
+
+### 🌼 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-B8E8F4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-B8CCF0?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F9EDB8?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-F4C4B8?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-B8CCF4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MUI-B8D4F8?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
+
+### 🌷 Database
+<p>
+  <img src="https://img.shields.io/badge/MySQL-B8CFF4?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MariaDB-B8C8D8?style=for-the-badge&logo=mariadb&logoColor=white"/>
+</p>
+
+### ☁️ Cloud & Infra
+<p>
+  <img src="https://img.shields.io/badge/AWS-E8D4B8?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-F4DCB8?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-C8D0F4?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-C8E8C8?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-B8E8D4?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-F4CCB8?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</p>
+
+### 🤖 AI & Tools
+<p>
+  <img src="https://img.shields.io/badge/Gemini_API-C8D8F8?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-C8D8F0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F4C4B8?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-F4D0B8?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-D4C8E8?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+</p>
+
+---
+
+## 🚀 Projects
+
+<br>
 
 ### 🎓 HAKIO — AI 기반 학원 통합 관리 플랫폼
-> Spring Boot + React 풀스택 개인 프로젝트 (진행중)
 
-**기술** `Spring Boot 3.x` `Spring Security` `JPA` `JWT` `OAuth2` `React` `TailwindCSS` `GCP`
+> 📌 Spring Boot + React 풀스택 개인 프로젝트 `진행중`
 
-- 원장 · 강사 · 학부모 · 학생 역할별 접근 제어 (Role-based Access Control)
-- Claude AI 연동 — 상담일지 초안 자동 생성 · 성적 분석 리포트
-- 출결 세션 관리 · 카카오페이 수납 연동 · 단어장 퀴즈
-- Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신
-- KakaoPay 단일 결제 기능 구현
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-B8E8F4?style=flat-square&logo=react&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-D4C8E8?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-F4C8B8?style=flat-square&logo=auth0&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-B8E8F0?style=flat-square&logo=tailwindcss&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-C8D8F8?style=flat-square&logo=googlecloud&logoColor=white)
 
----
+| 기능 | 설명 |
+|------|------|
+| 🔐 RBAC | 원장 · 강사 · 학부모 · 학생 역할별 접근 제어 |
+| 🤖 AI 연동 | Claude AI — 상담일지 초안 자동 생성 · 성적 분석 리포트 |
+| 📋 출결 관리 | 출결 세션 관리 · 단어장 퀴즈 |
+| 💳 결제 | 카카오페이 수납 연동 · 단일 결제 기능 구현 |
+| 🔑 인증 | Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신 |
+
+<br>
 
 ### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼
-> Spring Boot + Next.js 풀스택 팀 프로젝트 (4인) | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
-**역할** WebSocket 채팅 · 스터디 게시판 · Notion 관리 담당
+> 📌 Spring Boot + Next.js 풀스택 팀 프로젝트 `4인` | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
-**기술** `Spring Boot 3.x` `Spring Security` `JPA` `JWT` `Next.js` `TailwindCSS` `GCP`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-D4C8E8?style=flat-square&logo=nextdotjs&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-C8D8E8?style=flat-square&logo=socketdotio&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-B8E8F0?style=flat-square&logo=tailwindcss&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-C8D8F8?style=flat-square&logo=googlecloud&logoColor=white)
 
-- WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설
-- 공공데이터포털 API — 자격증 시험 일정 캘린더 자동 동기화
-- Google/Kakao OAuth2 소셜 로그인 + 카카오톡 캘린더 일정 연동
-- GCP Cloud Run + Cloud Build CI/CD · Vercel 배포
+> 🙋 **담당:** WebSocket 채팅 · 스터디 게시판 · Notion 관리
+
+| 기능 | 설명 |
+|------|------|
+| 💬 채팅 | WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설 |
+| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화 |
+| 🔑 인증 | Google/Kakao OAuth2 소셜 로그인 + 카카오톡 캘린더 일정 연동 |
+| 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juhyeon-0718&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juhyeon-0718&layout=compact&theme=calm&border_radius=10&border_color=D4C8E8" height="165"/>
 </div>
+
+<br>
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhyeon-0718&theme=tokyonight)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhyeon-0718&theme=calm&border_radius=10&border=D4C8E8)](https://git.io/streak-stats)
 
 </div>
 
----
-
-## 📫 Contact
-
-[![GitHub](https://img.shields.io/badge/GitHub-juhyeon--0718-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/juhyeon-0718)
-[![Location](https://img.shields.io/badge/Location-Busan,_Korea-1DA1F2?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com)
-
----
+<br>
 
 <div align="center">
-
-*"동작하는 코드보다, 이해할 수 있는 코드를 지향합니다."*
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D6F5EC,50:D6EAFF,100:FFD6E7&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
