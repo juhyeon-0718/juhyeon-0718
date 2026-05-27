@@ -49,18 +49,25 @@ RESTful API 설계, JPA를 활용한 데이터 모델링, Spring Security 기반
 
 ## 🚀 주요 프로젝트
 
-### 🏫 HAKIO — AI 기반 학원 관리 플랫폼
+### 🎓 HAKIO — AI 기반 학원 통합 관리 플랫폼 풀스택 (Spring Boot + React + GCP)
 
-> Spring Boot + React 풀스택 팀 프로젝트
+Spring Boot 3.x + JPA + Spring Security + JWT + OAuth2 (Google/Kakao) + Gradle
+원장/강사/학부모/학생 Role 기반 접근제어, Refresh Token 자동 재발급 인터셉터
+React(TypeScript) + TailwindCSS + React Query + Recharts 대시보드
+Anthropic Claude API 연동 — 상담일지 초안 자동 생성, 성적 분석 리포트
+출결 세션 오픈/마감, 단어장 & 퀴즈, 카카오페이 수납 연동
+GCP Cloud Run 백엔드 배포, Vercel 프론트, Cloud SQL + Cloud Build CI/CD
+👉 HAKIO (프로젝트 진행 중)
 
-- **역할**: 백엔드 리드 — REST API 설계 및 서버 전반 담당
-- **기술**: Spring Boot 3.x · Spring Security · JPA · JWT · MySQL · React
-- **주요 기능**
-  - AI 기반 학생 맞춤 학습 추천 및 성취도 분석
-  - 학원 수강생 · 강사 · 수업 통합 관리 시스템
-  - JWT 기반 인증/인가 및 역할별 접근 제어(Role-based Access Control)
-  - RESTful API 설계 (Swagger 문서화)
+### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼 풀스택 (Spring Boot + Next.js + GCP)
 
+Spring Boot 3.x + JPA + Spring Security + JWT + OAuth2 (Google/Kakao) + Flyway
+Next.js(TypeScript) + React + TailwindCSS + STOMP.js + Axios
+WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 게시판 → 채팅방 자동 개설
+공공데이터포털 API 연동 — 자격증 시험 일정 캘린더 자동 동기화
+카카오 OAuth2 + 카카오맵 + 카카오톡 캘린더 일정 연동 (MCP 활용)
+GCP Cloud Run 백엔드 배포, Vercel 프론트, Cloud SQL + Cloud Build CI/CD
+👉 HIGHPASS | 팀: 200 OK (4인)
 ---
 
 ## 📊 GitHub Stats
