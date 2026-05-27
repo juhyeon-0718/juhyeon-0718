@@ -49,25 +49,26 @@ RESTful API 설계, JPA를 활용한 데이터 모델링, Spring Security 기반
 
 ## 🚀 주요 프로젝트
 
-### 🎓 HAKIO — AI 기반 학원 통합 관리 플랫폼 풀스택 (Spring Boot + React + GCP)
+### 🎓 **HAKIO — AI 기반 학원 통합 관리 플랫폼**
+Spring Boot + React 풀스택 개인 프로젝트
 
-Spring Boot 3.x + JPA + Spring Security + JWT + OAuth2 (Google/Kakao) + Gradle
-원장/강사/학부모/학생 Role 기반 접근제어, Refresh Token 자동 재발급 인터셉터
-React(TypeScript) + TailwindCSS + React Query + Recharts 대시보드
-Anthropic Claude API 연동 — 상담일지 초안 자동 생성, 성적 분석 리포트
-출결 세션 오픈/마감, 단어장 & 퀴즈, 카카오페이 수납 연동
-GCP Cloud Run 백엔드 배포, Vercel 프론트, Cloud SQL + Cloud Build CI/CD
-👉 HAKIO (프로젝트 진행 중)
+- 기술: Spring Boot 3.x · Spring Security · JPA · JWT · OAuth2 · React · TailwindCSS · GCP
+- 주요 기능
+  - 원장 · 강사 · 학부모 · 학생 역할별 접근 제어 (Role-based Access Control)
+  - Claude AI 연동 — 상담일지 초안 자동 생성 · 성적 분석 리포트
+  - 출결 세션 관리 · 카카오페이 수납 연동 · 단어장 퀴즈
+  - Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신
 
-### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼 풀스택 (Spring Boot + Next.js + GCP)
+### 🏆 **HIGHPASS — 취업준비생 커뮤니티 플랫폼**
+Spring Boot + Next.js 풀스택 팀 프로젝트 (4인) | [바로가기](https://highpassfrontend.vercel.app/login/)
 
-Spring Boot 3.x + JPA + Spring Security + JWT + OAuth2 (Google/Kakao) + Flyway
-Next.js(TypeScript) + React + TailwindCSS + STOMP.js + Axios
-WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 게시판 → 채팅방 자동 개설
-공공데이터포털 API 연동 — 자격증 시험 일정 캘린더 자동 동기화
-카카오 OAuth2 + 카카오맵 + 카카오톡 캘린더 일정 연동 (MCP 활용)
-GCP Cloud Run 백엔드 배포, Vercel 프론트, Cloud SQL + Cloud Build CI/CD
-👉 HIGHPASS | 팀: 200 OK (4인)
+- 역할: WebSocket 채팅 · 스터디 게시판 · Notion 관리 담당
+- 기술: Spring Boot 3.x · Spring Security · JPA · JWT · Next.js · TailwindCSS · GCP
+- 주요 기능
+  - WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설
+  - 공공데이터포털 API — 자격증 시험 일정 캘린더 자동 동기화
+  - Google/Kakao OAuth2 소셜 로그인 + 카카오톡 캘린더 일정 연동
+  - GCP Cloud Run + Cloud Build CI/CD · Vercel 배포
 ---
 
 ## 📊 GitHub Stats
