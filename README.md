@@ -125,8 +125,13 @@
 | 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
 ---
-
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juhyeon-0718&theme=discord&no-frame=true&column=7&margin-w=8" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
@@ -136,9 +141,15 @@
 <br>
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juhyeon-0718&theme=calm&border_radius=10&border=D4C8E8"/>
+  </a>
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=juhyeon-0718&theme=calm&border_radius=10&border=D4C8E8)](https://git.io/streak-stats)
+<br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juhyeon-0718&theme=rosewater&bg_color=fff0f5&color=9B7FA8&line=C9B8E8&point=F4B8C1&border_color=E8D4F0&border_radius=10" width="100%"/>
 </div>
 
 <br>
