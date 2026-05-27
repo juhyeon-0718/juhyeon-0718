@@ -1,4 +1,4 @@
-# 안주현 (Juhyeon) 👋
+# 정주현 (Juhyeon) 👋
 
 ### Backend Developer | Java · Spring Boot · JPA · MySQL
 
