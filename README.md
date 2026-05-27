@@ -50,7 +50,7 @@ RESTful API 설계, JPA를 활용한 데이터 모델링, Spring Security 기반
 ## 🚀 주요 프로젝트
 
 ### 🎓 **HAKIO — AI 기반 학원 통합 관리 플랫폼**
-Spring Boot + React 풀스택 개인 프로젝트
+Spring Boot + React 풀스택 개인 프로젝트 (진행중)
 
 - 기술: Spring Boot 3.x · Spring Security · JPA · JWT · OAuth2 · React · TailwindCSS · GCP
 - 주요 기능
