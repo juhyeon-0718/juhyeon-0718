@@ -6,8 +6,10 @@
 
 <div align="center">
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuhyeon-0718&count_bg=%23C9B8E8&title_bg=%23E8D4F0&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+![Profile Views](https://komarev.com/ghpvc/?username=juhyeon-0718&color=C9B8E8&style=flat-square&label=Profile+Views)
 [![GitHub](https://img.shields.io/badge/GitHub-juhyeon--0718-C9B8E8?style=flat-square&logo=github&logoColor=white)](https://github.com/juhyeon-0718)
+[![Gmail](https://img.shields.io/badge/juehyeon2454@gmail.com-F4C4B8?style=flat-square&logo=gmail&logoColor=white)](mailto:juehyeon2454@gmail.com)
+[![Notion](https://img.shields.io/badge/Notion-D4C8E8?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/35d3cebb7a5c801c8474fc03631d0dc6)
 ![Location](https://img.shields.io/badge/📍_부산광역시-B8D4F5?style=flat-square)
 
 </div>
