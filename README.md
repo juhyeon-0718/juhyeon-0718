@@ -128,14 +128,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juhyeon-0718&theme=discord&no-frame=true&column=7&margin-w=8" width="100%"/>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=juhyeon-0718&layout=compact&theme=calm&border_radius=10&border_color=D4C8E8" height="165"/>
 </div>
 
 <br>
