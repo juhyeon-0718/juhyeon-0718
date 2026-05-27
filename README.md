@@ -19,6 +19,7 @@
 ```
 🎯 백엔드 개발자 취업 준비 중
 ☕ Java / Spring Boot 기반 서버 개발에 집중하고 있습니다
+💡 동작하는 코드보다, 이해할 수 있는 코드를 지향합니다
 📍 부산광역시
 ```
 
@@ -29,52 +30,50 @@
 <br>
 
 ### 🌸 Backend
-
+<p>
 <img src="https://img.shields.io/badge/Java-F4B8C1?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Security-B8E0C8?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA%2FHibernate-C8C8E0?style=for-the-badge&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-D4C8E8?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-F4C8B8?style=for-the-badge&logo=auth0&logoColor=white"/>
-
-<br><br>
+</p>
 
 ### 🌼 Frontend
-
+<p>
 <img src="https://img.shields.io/badge/React-B8E8F4?style=for-the-badge&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-B8CCF0?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F9EDB8?style=for-the-badge&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-F4C4B8?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-B8CCF4?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-B8D4F8?style=for-the-badge&logo=mui&logoColor=white"/>
-
-<br><br>
+</p>
 
 ### 🌷 Database
-
+<p>
 <img src="https://img.shields.io/badge/MySQL-B8CFF4?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-B8C8D8?style=for-the-badge&logo=mariadb&logoColor=white"/>
-
-<br><br>
+</p>
 
 ### ☁️ Cloud & Infra
-
+<p>
 <img src="https://img.shields.io/badge/AWS-E8D4B8?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/EC2-F4DCB8?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/RDS-C8D0F4?style=for-the-badge&logo=amazonrds&logoColor=white"/>
 <img src="https://img.shields.io/badge/S3-C8E8C8?style=for-the-badge&logo=amazons3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nginx-B8E8D4?style=for-the-badge&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ubuntu-F4CCB8?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-
-<br><br>
+</p>
 
 ### 🤖 AI & Tools
-
+<p>
 <img src="https://img.shields.io/badge/Gemini_API-C8D8F8?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-C8D8F0?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F4C4B8?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-F4D0B8?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-D4C8E8?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-E8E4F0?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>
 
 ---
 
@@ -86,12 +85,14 @@
 
 > 📌 Spring Boot + React 풀스택 개인 프로젝트 `진행중`
 
+<p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-B8E8F4?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-D4C8E8?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/OAuth2-F4C8B8?style=flat-square&logo=auth0&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-B8E8F0?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-C8D8F8?style=flat-square&logo=googlecloud&logoColor=white"/>
+</p>
 
 | 기능 | 설명 |
 |------|------|
@@ -107,18 +108,20 @@
 
 > 📌 Spring Boot + Next.js 풀스택 팀 프로젝트 `4인` | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
+<p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-D4C8E8?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-C8D8E8?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-B8E8F0?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-C8D8F8?style=flat-square&logo=googlecloud&logoColor=white"/>
+</p>
 
 > 🙋 **담당:** WebSocket 채팅 · 스터디 게시판 · Notion 관리
 
 | 기능 | 설명 |
 |------|------|
 | 💬 채팅 | WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설 |
-| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화, KAKAO Map API - 스터디 장소 표시 및 길찾기 |
+| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화, Kakao Map API - 스터디 장소 표시 및 길찾기 |
 | 🔑 인증 | Google/Kakao OAuth2 소셜 로그인 + 카카오톡 캘린더 일정 연동 |
 | 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
