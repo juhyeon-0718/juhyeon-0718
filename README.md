@@ -107,11 +107,11 @@
 
 ### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼
 
-> 📌 Spring Boot + Next.js 풀스택 팀 프로젝트 `4인` | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
+> 📌 Spring Boot + React 풀스택 팀 프로젝트 `4인` | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-D4C8E8?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-B8E8F4?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/WebSocket-C8D8E8?style=flat-square&logo=socketdotio&logoColor=white"/>
 <img src="https://img.shields.io/badge/TailwindCSS-B8E8F0?style=flat-square&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/GCP-C8D8F8?style=flat-square&logo=googlecloud&logoColor=white"/>
