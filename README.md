@@ -84,7 +84,7 @@
 
 ### 🎓 HAKIO — AI 기반 학원 통합 관리 플랫폼
 
-> 📌 Spring Boot + React 풀스택 개인 프로젝트 `진행중`
+> 📌 Spring Boot + React 풀스택 개인 프로젝트 `진행중`(개발기간 : 2026.05.19 ~ ) 
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
@@ -107,7 +107,7 @@
 
 ### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼
 
-> 📌 Spring Boot + React 풀스택 팀 프로젝트 `4인` | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
+> 📌 Spring Boot + React 풀스택 팀 프로젝트 `4인` (개발기간 : 2026.03.30 - 2026.05.13) | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
