@@ -13,6 +13,16 @@
 
 </div>
 
+<div align="center">
+  <table style="border: none; border-left: 3px solid #4A5568; background-color: #F8FAFC; padding: 12px 24px; border-radius: 30px;">
+    <tr>
+      <td style="border: none; color: #2D3748; font-size: 15px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+        ✨ 매일의 기록을 아카이빙하며, 어제보다 더 견고한 코드를 쌓아가는 개발자 정주현입니다 
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -77,13 +87,13 @@
 
 ---
 
-## 🚀 Projects
+## Projects
+
+
+<details>
+<summary><b>🎓 HAKIO</b> — AI 기반 학원 통합 관리 플랫폼 &nbsp;|&nbsp; Spring Boot + React 풀스택 개인 프로젝트 &nbsp;<code>진행중</code> (2026.05.19 ~ )</summary>
 
 <br>
-
-### 🎓 HAKIO — AI 기반 학원 통합 관리 플랫폼
-
-> 📌 Spring Boot + React 풀스택 개인 프로젝트 `진행중`(개발기간 : 2026.05.19 ~ ) 
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
@@ -102,11 +112,12 @@
 | 💳 결제 | 카카오페이 수납 연동 · 단일 결제 기능 구현 |
 | 🔑 인증 | Google/Kakao OAuth2 소셜 로그인 + JWT Refresh Token 자동 갱신 |
 
+</details>
+
+<details>
+<summary><b>🏆 HIGHPASS</b> — 취업준비생 커뮤니티 플랫폼 &nbsp;|&nbsp; Spring Boot + React 풀스택 팀 프로젝트 <code>4인</code> (2026.03.30 ~ 2026.05.13) &nbsp;<a href="https://highpassfrontend.vercel.app/login/">🔗 바로가기</a></summary>
+
 <br>
-
-### 🏆 HIGHPASS — 취업준비생 커뮤니티 플랫폼
-
-> 📌 Spring Boot + React 풀스택 팀 프로젝트 `4인` (개발기간 : 2026.03.30 - 2026.05.13) | [🔗 바로가기](https://highpassfrontend.vercel.app/login/)
 
 <p>
 <img src="https://img.shields.io/badge/Spring_Boot-B8E0C8?style=flat-square&logo=springboot&logoColor=white"/>
@@ -121,12 +132,14 @@
 | 기능 | 설명 |
 |------|------|
 | 💬 채팅 | WebSocket STOMP 기반 1:1 · 그룹 채팅, 스터디 모집 → 채팅방 자동 개설 |
-| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화, Kakao Map API - 스터디 장소 표시 및 길찾기 |
+| 📅 캘린더 | 공공데이터포털 API — 자격증 시험 일정 자동 동기화, Kakao Map API — 스터디 장소 표시 및 길찾기 |
 | 🔑 인증 | Google/Kakao OAuth2 소셜 로그인 + 카카오톡 캘린더 일정 연동 |
 | 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
+</details>
+
 ---
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
