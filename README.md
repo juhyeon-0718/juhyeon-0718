@@ -142,7 +142,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=juhyeon-0718&show_icons=true&theme=calm&count_private=true&border_radius=10&border_color=D4C8E8" height="165"/>
 </div>
 
 <br>
