@@ -149,7 +149,8 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=juhyeon-0718&theme=calm&border_radius=10&border=D4C8E8"/>
+    <img src="https://streak-stats.demolab.com/?user=juhyeon-0718&theme=calm&border_radius=10&border=D4C8E8
+"/>
   </a>
 </div>
 
