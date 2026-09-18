@@ -14,6 +14,10 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=9B9BBF&center=true&vCenter=true&width=440&lines=Backend+Developer+%F0%9F%8C%B1;Java+%2F+Spring+Boot;%EC%96%B4%EC%A0%9C%EB%B3%B4%EB%8B%A4+%EA%B2%AC%EA%B3%A0%ED%95%9C+%EC%BD%94%EB%93%9C%EB%A5%BC+%EC%8C%93%EC%95%84%EA%B0%91%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <table style="border: none; border-left: 3px solid #4A5568; background-color: #F8FAFC; padding: 12px 24px; border-radius: 30px;">
     <tr>
       <td style="border: none; color: #2D3748; font-size: 15px; font-weight: 500; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
@@ -32,6 +36,7 @@
 ☕ Java / Spring Boot 기반 서버 개발에 집중하고 있습니다
 📍 부산광역시
 ```
+
 ## 🏅 Certifications
 
 <div align="center">
@@ -56,8 +61,8 @@
 | 리눅스마스터 2급 | 1차 합격 | 2026.08.01 |
 | 빅데이터분석기사 (빅분기) | 필기 합격 | 2026.09.18 |
 
-
 </div>
+
 ---
 
 ## 🛠 Tech Stack
@@ -114,7 +119,6 @@
 
 ## Projects
 
-
 <details>
 <summary><b>🎓 HAKIO</b> — AI 기반 학원 통합 관리 플랫폼 &nbsp;|&nbsp; Spring Boot + React 풀스택 개인 프로젝트 &nbsp;<code>진행중</code> (2026.05.19 ~ )</summary>
 
@@ -162,7 +166,9 @@
 | 🚀 배포 | GCP Cloud Run + Cloud Build CI/CD · Vercel 배포 |
 
 </details>
+
 ---
+
 ## GitHub Stats
 
 <div align="center">
@@ -180,8 +186,27 @@
 <br>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=juhyeon-0718&theme=discord&no-frame=true&row=1&column=7&margin-w=8" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=juhyeon-0718&theme=rosewater&bg_color=fff0f5&color=9B7FA8&line=C9B8E8&point=F4B8C1&border_color=E8D4F0&border_radius=10" width="100%"/>
 </div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/juhyeon-0718/juhyeon-0718/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+## ⏱ Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br>
 
